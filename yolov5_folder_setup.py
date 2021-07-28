@@ -1,4 +1,4 @@
-from os import POSIX_FADV_SEQUENTIAL
+
 import subprocess
 
 def group_images(dataset_dir, first_folder, last_folder):

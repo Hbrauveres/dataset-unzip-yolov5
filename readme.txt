@@ -1,4 +1,4 @@
------------------------------------------------------------OBSERVAÇÕES-----------------------------------------------------------------
+-----------------------------------------------------------OBSERVAÇÕES---------------------------------------------------------
                                                                                                                                                          
  - Estes scripts são utilizados para extrair, organziar e redimensionar as imagens e labels do dataset para utilização do mesmo com o algoritmo Yolov5. 
 
@@ -14,4 +14,4 @@
  - Para meus colegas que possivelmente utilizarão este código, serão necessárias modificações para que o código organize o dataset de acordo com as entradas do algoritmo utilizado. 
  (Ficarei disponivel para conversar sobre o código e discutir quaisquer modificações necessárias.)
 
- --------------------------------------------------------------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------------------------------------------------------

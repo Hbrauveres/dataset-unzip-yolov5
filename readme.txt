@@ -15,3 +15,4 @@
  (Ficarei disponivel para conversar sobre o código e discutir quaisquer modificações necessárias.)
 
 -------------------------------------------------------------------------------------------------------------------------------
+link da yolov5> https://github.com/ultralytics/yolov5

@@ -1,7 +1,3 @@
-import subprocess
-
-def add_counter(labels,i):
-    labels[i] = labels[i] + 1
 
 def count_labels(dataset_path, first_folder, last_folder):
 
@@ -33,7 +29,7 @@ def count_labels(dataset_path, first_folder, last_folder):
         for line in lines[1:]:
             args = line.split(",")
             index = labels_map[args[5].replace('\"', "").strip()]
-            add_counter(labels,index)
+            labels[index] = labels[index] + 1
 
         output_line = outter_folder_name
 
